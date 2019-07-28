@@ -1,9 +1,9 @@
-Middleton
 FFA_Middleton
-3 areas : Jousting, Dueling, and Archers/FFA. https://www.youtube.com/watch?v=1zn_L-Nv94E
+FFA_Middleton
+A bridge connecting two towers for intense fights. https://www.youtube.com/watch?v=tz5SBmN6i64
 Squackety
 1.0
 26/07/2019
-16Mo
+16,4 Mo
 24
-https://cdn.discordapp.com/attachments/604666569242443786/604976372426735616/unknown.png
+https://cdn.discordapp.com/attachments/604666569242443786/605035837973069824/unknown.png

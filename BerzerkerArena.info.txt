@@ -1,8 +1,8 @@
-Berzerker Arena
 BerzerkerArena
-A duelyard. The first community map ever created, as a proof of concept. Trailer : https://www.youtube.com/watch?v=Noa5xgqMrbw
+BerzerkerArena
+A duelyard. The first community map, created as a proof of concept of the pre-SDK method. Trailer : https://www.youtube.com/watch?v=Noa5xgqMrbw
 PlouPlou
-2.0
+1.0
 19/07/2019
 48 Mo
 32
