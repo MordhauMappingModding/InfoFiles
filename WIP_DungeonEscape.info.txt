@@ -1,5 +1,5 @@
 [WIP] Dungeon Escape
-WIP_DungeonEscape
+wip_dungeonescape
 A Work-in-progress map, the place will be filled with bots on your path to freedom. To be played solo (type open dungeonescape in console). 
 LordCommanderGuts
 0.4

@@ -1,6 +1,6 @@
 Adamant
 Adamant
-A deathmap map including Jousting, Dueling and Archers/FFA Arena. https://youtu.be/s_DHY1lL8Sg
+A deathmap map including Jousting, Dueling and Archers/FFA Arena. Bloom disabled, Ultra shadow quality suggested. https://youtu.be/s_DHY1lL8Sg
 Squackety
 1.0
 29/07/2019

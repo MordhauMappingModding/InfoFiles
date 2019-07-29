@@ -1,4 +1,4 @@
-Arena
+FFA Arena
 FFA_Arena
 A small Duels/Free For All map, set in an Arena. Currently only Duels/FFA, but plans for a Jousting,TDM and SKM variants planned. Music by Andrey Vinogradov.
 Teabag
