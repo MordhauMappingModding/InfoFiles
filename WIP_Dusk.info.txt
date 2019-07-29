@@ -1,9 +1,0 @@
-[WIP] Dusk
-WIP_Dusk
-(Work-in-progress) Map designed for skirmishes and frontline with less people, includes multiple flank routes. Currently only deathmatch is supported due to limitations in map design.
-Shaweewoo (Quinn)
-0.5
-29/07/2019
-24.8 MB
-32
-https://cdn.discordapp.com/attachments/601992691751845910/604583807840026664/20190727005948_1.jpg
