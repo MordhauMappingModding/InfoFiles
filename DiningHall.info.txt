@@ -4,6 +4,6 @@ The recreation of the popular Chivarly: Medieval Warfare map. Dining Hall is a s
 Marel
 1.0
 29/07/2019
-19,7 Mo
+19,7 MB
 24
 https://cdn.discordapp.com/attachments/604666569242443786/605032120511102976/unknown.png

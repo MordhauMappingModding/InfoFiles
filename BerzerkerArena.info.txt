@@ -4,6 +4,6 @@ A duelyard. The first community map, created as a proof of concept of the pre-SD
 PlouPlou
 1.0
 19/07/2019
-48 Mo
+48 MB
 32
-https://cdn.discordapp.com/attachments/604666569242443786/604979340928876554/unknown.png
+https://cdn.discordapp.com/attachments/604666569242443786/605437295923036182/unknown.png
