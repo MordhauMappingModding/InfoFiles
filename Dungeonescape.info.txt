@@ -1,0 +1,9 @@
+[WIP] Dungeon Escape
+Dungeonescape
+A Work-in-progress map, the place will be filled with bots on your path to freedom. There will be two versions, one for singleplayer, and one for coop of up to 8 players. (type open dungeonescape in console). Currently, there will be DM on the map while work is done on the AI.
+LordCommanderGuts
+0.4
+30/07/2019
+112 Mo
+Solo/coop map
+https://cdn.discordapp.com/attachments/604666569242443786/605015083369758722/unknown.png
