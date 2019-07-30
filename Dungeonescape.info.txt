@@ -4,6 +4,6 @@ A Work-in-progress map, the place will be filled with bots on your path to freed
 LordCommanderGuts
 0.4
 30/07/2019
-112 Mo
+112 MB
 Solo/coop map
 https://cdn.discordapp.com/attachments/604666569242443786/605015083369758722/unknown.png
