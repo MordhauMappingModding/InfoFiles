@@ -2,8 +2,8 @@ Dining Hall
 DiningHall
 The recreation of the popular Chivarly: Medieval Warfare map. Dining Hall is a small but cozy, atmospheric and fun place! Dine with your friends and feel nostalgic vibes! https://youtu.be/RgpzZjzjvT0
 Marel
-1.0
-29/07/2019
-19,7 MB
+1.1
+30/07/2019
+23,3 MB
 24
 https://cdn.discordapp.com/attachments/604666569242443786/605032120511102976/unknown.png
