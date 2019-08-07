@@ -1,6 +1,6 @@
 [WIP] Harbor
 Harbor
-A work-in-progess map featuring Duelyard / 1v1 Arena's / Jousting
+Harbor. A work-in-progess map featuring Duelyard / 1v1 Arena's / Jousting
 Tim
 0.69
 29/07/2019

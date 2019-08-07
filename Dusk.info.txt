@@ -1,6 +1,6 @@
 Dusk
 Dusk
-Map designed for skirmishes and frontline with less people, includes multiple flank routes. Currently only deathmatch is supported due to limitations in map design.
+Dusk. Map designed for skirmishes and frontline with less people, includes multiple flank routes. Currently only deathmatch is supported due to limitations in map design.
 Shaweewoo (Quinn)
 1.0
 29/07/2019

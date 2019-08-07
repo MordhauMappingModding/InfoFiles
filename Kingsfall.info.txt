@@ -1,6 +1,6 @@
 Kingsfall
 Kingsfall
-A courtyard with a small arena and dueling halls. Effects quality must be set to Medium or higher. Ultra quality suggested.
+Kingsfall. A courtyard with a small arena and dueling halls. Effects quality must be set to Medium or higher. Ultra quality suggested.
 Yellowbentine
 1.0
 29/07/2019
