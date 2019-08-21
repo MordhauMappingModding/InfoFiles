@@ -1,6 +1,6 @@
-Wheatfield Town (Requires MCMI1.1.0.4+ to download)
+Wheatfield Town (Requires MCMI1.1.0.4+)
 Town
-TDM_Town, FFA_Town. Download : https://drive.google.com/open?id=1iUzGkUOXhaoxXy7thSd1XcQs4I06aLXP It is a town outside a castle containing a massive wheatfield, and a smaller forest. 
+TDM_Town, FFA_Town. It is a town outside a castle containing a massive wheatfield, and a smaller forest. If you want to download manually : https://drive.google.com/open?id=1iUzGkUOXhaoxXy7thSd1XcQs4I06aLXP 
 Gurrel
 1.2
 19/08/2019
